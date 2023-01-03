@@ -1,4 +1,6 @@
-### Hi there 👋
+![baymax](https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif)
+
+![](https://visitor-badge.glitch.me/badge?page_id=joshfermin.joshfermind&left_color=green&right_color=red)
 
 <!--
 **joshfermin/joshfermin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
