@@ -1,5 +1,11 @@
 ![baymax](https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshfermin" />
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshfermin&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshfermin&layout=compact" />
+ -->
+ 
 ![](https://visitor-badge.glitch.me/badge?page_id=joshfermin.joshfermind&left_color=green&right_color=red)
 
 <!--
