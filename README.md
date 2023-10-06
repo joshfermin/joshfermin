@@ -1,4 +1,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshfermin" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshfermin&layout=compact&theme=highcontrast" />
+
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshfermin&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshfermin&layout=compact" />
