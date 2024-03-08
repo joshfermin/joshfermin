@@ -1,4 +1,6 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshfermin" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=joshfermin&theme=dark&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshfermin&layout=compact&theme=highcontrast" />
 
 
