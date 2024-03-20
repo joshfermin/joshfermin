@@ -1,8 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=joshfermin&theme=dark&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshfermin&layout=compact&theme=highcontrast" />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=joshfermin&theme=github-dark-blue&hide_border=true&border_radius=&mode=weekly)](https://git.io/streak-stats)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshfermin&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshfermin&layout=compact" />
